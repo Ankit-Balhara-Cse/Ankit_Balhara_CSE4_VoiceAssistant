@@ -11,5 +11,5 @@ Pause and resume music playback.
 Display real-time mouse coordinates (for development/debugging).
 The assistant uses libraries like speech_recognition, pyttsx3, pyautogui, and wikipedia, along with WolframAlpha's API for answering general queries. With a clean GUI and background threading, it provides a seamless voice interaction experience on Windows systems.
 
-Video Explanation: 
+Video Explanation: https://github.com/Ankit-Balhara-Cse/Ankit_Balhara_CSE4_VoiceAssistant/blob/main/Project_Video.mp4
 
