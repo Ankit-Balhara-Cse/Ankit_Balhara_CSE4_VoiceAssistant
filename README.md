@@ -13,3 +13,24 @@ The assistant uses libraries like speech_recognition, pyttsx3, pyautogui, and wi
 
 Video Explanation: https://github.com/Ankit-Balhara-Cse/Ankit_Balhara_CSE4_VoiceAssistant/blob/main/Project_Video.mp4
 
+Technologies Used: 
+Python – Core language
+PyQt5 – GUI interface
+speech_recognition – Voice input
+pyttsx3 – Text-to-speech
+wikipedia & wolframalpha – For answering queries
+pyautogui – App and keyboard automation
+psutil – Process management
+webbrowser – Opening web apps
+
+Run and Execute: Start Using
+Click Start Listening in the GUI window.
+Say “Lizza” to activate the assistant.
+Speak commands like:
+“Open YouTube”
+“Do message to Shivam hello”
+“Play Shape of You”
+\“Pause music”
+
+
+
